@@ -1,0 +1,3 @@
+export MY_SCRIPTS=~/scripts
+
+alias fif=$MY_SCRIPTS/findInFiles.sh
