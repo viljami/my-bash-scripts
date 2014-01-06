@@ -2,7 +2,7 @@ My modest bash scripts. I ended up needing these in several machines. I hope tha
 
 # What
 
-* fif <path/to> <key-search-word> - find within files
+* fif path/to key-search-word - find within files
 
 # Setup
 
