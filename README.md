@@ -1,8 +1,9 @@
-My modest bash scripts. I ended up needing these in several machines. I hope that this time I will keep track of 'em.
+My modest bash scripts.
 
 # What
 
 * fif path/to key-search-word - find within files
+* fmf command target - e.g. move to server
 
 # Setup
 
