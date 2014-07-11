@@ -1,0 +1,20 @@
+{
+    "undef": true,
+    "unused": true,
+    "latedef": true,
+    "trailing": true,
+    "predef": {
+        "jQuery": true,
+        "window": true,
+        "setTimeout": true,
+        "setInterval": true,
+        "console": true,
+        "module": true,
+        "document": true,
+        "require": true,
+        "define": true,
+        "$": true,
+        "lastsemic":true
+    }
+}
+
