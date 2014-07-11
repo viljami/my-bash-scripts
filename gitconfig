@@ -1,0 +1,11 @@
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+	lg = log --color --graph --pretty=format:'%C(reset)%h%Creset -%C(cyan)%d%Creset %s %Cgreen(%cr) %C(reset)<%an>%Creset' --abbrev-commit
+	ll = log --color --graph --pretty=format:'%C(reset)%h%Creset -%C(cyan)%d%Creset %s %Cgreen(%cr) %C(reset)<%an>%Creset' --abbrev-commit
+[color]
+	ui = true
+[credential]
+	helper = osxkeychain
